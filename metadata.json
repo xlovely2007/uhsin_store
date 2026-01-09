@@ -1,0 +1,7 @@
+{
+  "name": "Uhsin Store - Premium Electronic Accessories",
+  "description": "A comprehensive shopping application for high-end electronic accessories featuring an AI-powered catalog system, order tracking, and a detailed user profile management suite.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
